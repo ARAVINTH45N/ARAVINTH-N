@@ -32,7 +32,7 @@ const Education = () => {
       location: "Tamil Nadu",
       period: "2021 - 2023",
       status: "Completed",
-      gpa: "92%",
+      gpa: "90%",
       highlights: [
         "Strong foundation in Mathematics and Physics",
         "Excellence in Science subjects",
@@ -44,11 +44,10 @@ const Education = () => {
   ];
 
   const certifications = [
-    "Arduino Programming Certification",
-    "IoT Development with ESP32",
-    "PCB Design with KiCad",
-    "Python for Electronics",
-    "Embedded C Programming"
+    "DATABASE FOR DEVELOPERS - ORACLE",
+    "INTERNET OF THINGS - IIT KHARAGPUR",
+    "CLOUD COMPUTING - IIT KHARAGPUR",
+    "EMBEDDED SYSTEMS - IIT BHUBANESWAR"
   ];
 
   return (

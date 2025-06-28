@@ -41,7 +41,7 @@ const About = () => {
     },
     {
       title: "HEAD OF OPERATIONS",
-      organization: "Circuit Circus Event - DRESTEIN'24",
+      organization: "Circuit Circus - DRESTEIN'24",
       period: "2024",
       description: "Managed operations for national level technical symposium with multiple participants",
       icon: <Users className="w-5 h-5" />
@@ -72,7 +72,7 @@ const About = () => {
     },
     {
       title: "Design & Development",
-      skills: ["Circuit Design", "PCB Design", "IoT Development", "System Integration"],
+      skills: ["WEB DEVELOPMENT", "PCB Design", "IoT Development", "System Integration"],
       gradient: "from-cyan-500/20 to-teal-500/20", 
       border: "border-cyan-400/30",
       color: "text-cyan-300"
@@ -116,7 +116,7 @@ const About = () => {
                 at Saveetha Engineering College, Chennai (2023-2027).
               </p>
               <p className="text-blue-300 font-medium">
-                Focus: Embedded Systems, IoT Innovations, Circuit Design
+                Focus: WEB DEVELOPMENT, IoT Innovations, EMBEDDED SYSTEMS
               </p>
             </div>
             

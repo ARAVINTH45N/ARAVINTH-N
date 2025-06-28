@@ -18,7 +18,7 @@ const Projects = () => {
       icon: <Leaf className="w-6 h-6" />,
       tech: ["React", "Node.js", "MongoDB", "IoT Integration"],
       github: "https://github.com/ARAVINTH45N",
-      demo: "https://ecoverse.aravinth.dev",
+      demo: "https://ecoverse-city-nexus.lovable.app",
       details: "ECOVERSE is a comprehensive platform designed for eco-friendly city management, integrating smart city solutions with environmental monitoring and sustainable development initiatives. Built with modern web technologies and IoT integration for real-time environmental data collection.",
       category: "IoT & Sustainability"
     },
@@ -30,7 +30,7 @@ const Projects = () => {
       icon: <GraduationCap className="w-6 h-6" />,
       tech: ["React", "Express.js", "PostgreSQL", "PDF Processing"],
       github: "https://github.com/ARAVINTH45N",
-      demo: "https://acadsmart.aravinth.dev",
+      demo: "https://ecoverse-city-nexus.lovable.app",
       details: "ACAD SMART streamlines academic publication management, providing a unified platform for faculty members and research scholars to manage, track, and report their research publications and academic achievements. Features automated report generation and analytics dashboard.",
       category: "Educational Technology"
     },

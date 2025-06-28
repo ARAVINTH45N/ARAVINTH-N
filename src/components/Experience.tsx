@@ -39,7 +39,7 @@ const Experience = () => {
     },
     {
       title: "HEAD OF OPERATIONS",
-      company: "\"CIRCUIT CIRCUS\" EVENT - DRESTEIN'24",
+      company: "\"CIRCUIT CIRCUS\" DRESTEIN'24",
       location: "Chennai, India",
       period: "2024",
       description: [
